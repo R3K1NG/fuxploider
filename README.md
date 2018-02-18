@@ -1,6 +1,6 @@
 # fuxploider
 
-[![Python 3.5|3.6](https://img.shields.io/badge/python-3.5%2F3.6-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](https://raw.githubusercontent.com/almandin/fuxploider/master/LICENSE.md)
+[![Python 3.5|3.6](https://img.shields.io/badge/python-3.5%2F3.6-green.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv3-red.svg)](https://raw.githubusercontent.com/r3k1ng/fuxploider/master/LICENSE.md)
 
 fuxploider is an open source penetration testing tool that automates the process of detecting and exploiting file upload forms flaws. This tool is able to detect the file types allowed to be uploaded and is able to detect which technique will work best to upload web shells or any malicious file on the desired web server.
 
@@ -11,7 +11,7 @@ Screenshots
 Installation
 ----
 
-    git clone https://github.com/almandin/fuxploider.git
+    git clone https://github.com/R3K1NG/fuxploider
     cd fuxploider
     pip3 install -r requirements.txt
 
